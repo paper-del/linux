@@ -1,0 +1,1 @@
+bash is an application and its primary job is to run other applications (in the form of commands) that are installed on the same system
