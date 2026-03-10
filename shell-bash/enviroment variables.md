@@ -1,0 +1,1 @@
+enviroment variable are constants avaible to any programs on the linux operating system
