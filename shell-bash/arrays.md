@@ -1,0 +1,1 @@
+arrays are used to store multiple values in a singel variable each element in an array is accessed using and index you can iterate over arrays and modify elements

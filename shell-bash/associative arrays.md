@@ -1,0 +1,1 @@
+assoctiative arrays allow you to use named keys to access values they are similar to dictionareis in other progeamming languages you can add or remove keys and values
